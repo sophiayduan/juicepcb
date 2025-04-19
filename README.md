@@ -9,10 +9,12 @@ LED x 3
 Push Button x 1
 2N3904 transistor x 1
 
-![image](https://github.com/user-attachments/assets/79ef3b11-683f-48b2-b223-765d11a5971a)
+![image](https://github.com/user-attachments/assets/c33efbaa-c555-47b1-87ca-72425e2ba16b)
 
-![image](https://github.com/user-attachments/assets/0004f7d7-f569-47de-91fc-3388cc0a696e)
+![image](https://github.com/user-attachments/assets/dd81ca48-704f-461f-9828-eb164fb43899)
 
-![image](https://github.com/user-attachments/assets/b32e75d3-e32f-484f-8daa-ed2d7ebc7477)
+![image](https://github.com/user-attachments/assets/b8a53cb2-1dcb-43a3-baf9-3348fab45e18)
+
+
 
 Slack: @sophia
