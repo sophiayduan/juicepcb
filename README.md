@@ -9,7 +9,7 @@ BOM:
 - Push Button x 1
 - 2N3904 transistor x 1
 
-![image](https://github.com/user-attachments/assets/c33efbaa-c555-47b1-87ca-72425e2ba16b)
+![image](https://github.com/user-attachments/assets/c07c4568-d340-4c26-a37a-a867ab86bbd5)
 
 ![image](https://github.com/user-attachments/assets/dd81ca48-704f-461f-9828-eb164fb43899)
 
