@@ -1,4 +1,5 @@
-A PCB in the shape of iron man's chest piece that has LED's controlled by a photoresistor
+A PCB in the shape of iron man's arc reactor that has LED's controlled by a photoresistor
+
 BOM:
 Photoresistor x 1
 LED x 3
@@ -7,6 +8,7 @@ LED x 3
 220Ω resistors x 3
 Push Button x 1
 2N3904 transistor x 1
+
 ![image](https://github.com/user-attachments/assets/79ef3b11-683f-48b2-b223-765d11a5971a)
 
 ![image](https://github.com/user-attachments/assets/0004f7d7-f569-47de-91fc-3388cc0a696e)
