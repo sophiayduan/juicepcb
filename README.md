@@ -1,4 +1,4 @@
-A PCB in the shape of iron man's arc reactor that has LED's controlled by a photoresistor
+A PCB in the shape of iron man's arc reactor that has LEDs controlled by a photoresistor
 
 BOM:
 - Photoresistor x 1 
