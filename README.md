@@ -1,3 +1,5 @@
+> My first PCB, made possible by #solder, while at #juice 
+
 A PCB in the shape of iron man's arc reactor that has LEDs controlled by a photoresistor
 
 BOM:
